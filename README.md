@@ -21,3 +21,10 @@ I am curious though: How much are CTEs used in practice? Since they're still a r
 Digging deeper, I found [this forum post](https://dba.stackexchange.com/questions/158374/performance-comparison-between-using-join-and-window-function-to-get-lead-and-la) asking the exact same thing and it seems that may not have been just for me. I originally thought I had just overcomplicated the solution for little reason but I may have accidentally stumbled upon the "better" answer.
 
 Be better than me though. Be right on purpose; consider all your options and possible solutions *first*!
+
+### Day 4 (01/09/2021): Sometimes you don't even realize you're getting better until you do
+No favourite question for today but while exploring a different SQL resource ([StrataScratch](https://www.stratascratch.com/)), it just kind of hit me. Either I'm getting better at this SQL thing or the problems are just easier there. Fingers crossed it's the former and if it is, for anybody else struggling down this path too... *sometimes you don't even realize you're getting better until you do*. It's so easy to miss all the subtle ways you're consistently adding new skills, clarifying the actual problem you're solving, or writing cleaner syntax. Until one day, you realize the things you distinctly remember struggling with for the longest time become less of a struggle, then eventually just become things you can solve in your sleep.
+
+You never get there as quickly as you want (believe me, I know) but if you keep going, you *do* get there.
+
+Unless the problems are just easier there.
