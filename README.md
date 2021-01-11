@@ -27,4 +27,11 @@ No favourite question for today but while exploring a different SQL resource ([S
 
 You never get there as quickly as you want (believe me, I know) but if you keep going, you *do* get there.
 
-Unless the problems are just easier there.
+Unless the problems are just easier on StrataScratch.
+
+### Day 5 (01/10/2021): Learning SQL (The Book)
+I guess I binge solve SQL practice problems the way some people binge watch TV shows. I have now completed virtually every free question on StrataScratch this weekend and quite enjoyed it. I may talk more in depth about my experience with a few different platforms I've used in a later post, but I liked how there was some continuity between different questions on StrataScratch. (Presumably because they came from the same technical interview.) It was nice to see the same data structure used to solve questions of varying difficulties.
+
+I finally started reading through [Learning SQL](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/) by Alan Beaulieu to get a more structured view of SQL, now that I've had some exposure. While I learned many concepts and techniques by focusing on solving real questions and consuming good SQL content from the LinkedIn data community, my goal now is to take a step back and build a broader base of knowledge. Struggling through things on my own first gives me a better context for the material and helps me better connect theory to specific personal examples.
+
+Fun fact: ANSI published their first standard for SQL in 1986... so SQL is officially 3 years older than me?
