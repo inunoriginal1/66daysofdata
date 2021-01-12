@@ -35,3 +35,8 @@ I guess I binge solve SQL practice problems the way some people binge watch TV s
 I finally started reading through [Learning SQL](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/) by Alan Beaulieu to get a more structured view of SQL, now that I've had some exposure. While I learned many concepts and techniques by focusing on solving real questions and consuming good SQL content from the LinkedIn data community, my goal now is to take a step back and build a broader base of knowledge. Struggling through things on my own first gives me a better context for the material and helps me better connect theory to specific personal examples.
 
 Fun fact: ANSI published their first standard for SQL in 1986... so SQL is officially 3 years older than me?
+
+### Day 6 (01/11/2021): Schema, Data and Transaction Statements
+I only had a bit of time today to read [Learning SQL](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/) and I'm encouraged by the author's writing style and the organization of the book.
+
+So far, 99% of my time working with SQL has been spent on data statements. I've only worked on learning the query side. And it makes sense; it does seem like it'd be way simpler to work with premade data structures that other people have built. However, I always knew I'd probably also need to explore more of the schema side to get a better understanding of SQL. Of course, you learn about primary keys and foreign keys naturally, just by joining tables together but I'm excited to learning more about data types, constraints, data dictionaries and a million other things I don't even know exist yet.
