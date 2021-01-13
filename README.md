@@ -40,3 +40,10 @@ Fun fact: ANSI published their first standard for SQL in 1986... so SQL is offic
 I only had a bit of time today to read [Learning SQL](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/) and I'm encouraged by the author's writing style and the organization of the book.
 
 So far, 99% of my time working with SQL has been spent on data statements. I've only worked on learning the query side. And it makes sense; it does seem like it'd be way simpler to work with premade data structures that other people have built. However, I always knew I'd probably also need to explore more of the schema side to get a better understanding of SQL. Of course, you learn about primary keys and foreign keys naturally, just by joining tables together but I'm excited to learning more about data types, constraints, data dictionaries and a million other things I don't even know exist yet. (The author talks about transaction statements and I have literally no clue what they are.)
+
+### Day 7 (01/12/2021): Chess Visualizations!
+I took quite the detour today. I scanned through a dataset of just over 20,000 chess games, played online at lichess.org. Why? Because it was curated by Maven Analytics for their [new data visualization challenge](https://www.mavenanalytics.io/blog/queens-gambit-challenge)!
+
+As a recreational chess player who actually plays mostly on lichess these days, I'm so excited to dig into this dataset and see what I can put together. (I must admit... I scanned through their dataset to see if any of my own games made it in and sadly they did not.) My tool of choice for this challenge will be Tableau. I've already started doing a bit of feature engineering with a few calculated fields and I have a few more in mind already that I need to create.
+
+If you're into data visualization, please join me in this challenge! Thanks for hosting this, Maven Analytics.
