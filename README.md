@@ -47,3 +47,10 @@ I took quite the detour today. I scanned through a dataset of just over 20,000 c
 As a recreational chess player who actually plays mostly on lichess these days, I'm so excited to dig into this dataset and see what I can put together. (I must admit... I scanned through their dataset to see if any of my own games made it in and sadly they did not.) My tool of choice for this challenge will be Tableau. I've already started doing a bit of feature engineering with a few calculated fields and I have a few more in mind already that I need to create.
 
 If you're into data visualization, please join me in this challenge! Thanks for hosting this, Maven Analytics.
+
+### Day 8 (01/13/2021): Thank goodness for five minutes a day
+Haven't had as much time for extracurriculars as I would like lately but we have to keep that streak alive, hah! Today's focus was on doing more feature engineering in Tableau, with [Maven Analytics'](https://www.mavenanalytics.io/) chess dataset. It feels like this dataset is deceptively rich, which just adds to the fun. (Or more likely I'm just not good enough yet to have properly assessed the dataset in the first place. Who knows? :D)
+
+Is there anything you are curious about and would like for me to take a look at?
+
+Still not too late to [join the challenge](https://www.mavenanalytics.io/blog/queens-gambit-challenge)!
