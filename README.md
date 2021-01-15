@@ -54,3 +54,8 @@ Haven't had as much time for extracurriculars as I would like lately but we have
 Is there anything you are curious about and would like for me to take a look at?
 
 Still not too late to [join the challenge](https://www.mavenanalytics.io/blog/queens-gambit-challenge)!
+
+### Day 9 (01/14/2021): I miss SQL (for some reason)
+Work has been a little more hectic lately (just accounting things), which hasn't left me as much time or energy for after work things as I would like. As a result, I've chosen to spend all my time the last few days on this chess data visualization challenge. One, because chess. Two, I feel like I can get more accomplished (relatively speaking) here, when working in smaller chunks of time.
+
+But I miss SQL. I miss writing queries. It feels like I missed a part of my day. Is this part of my identity now? Am I a SQL-er? That's... kind of exciting, honestly.
