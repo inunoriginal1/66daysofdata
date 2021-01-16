@@ -59,3 +59,8 @@ Still not too late to [join the challenge](https://www.mavenanalytics.io/blog/qu
 Work has been a little more hectic lately (just accounting things), which hasn't left me as much time or energy for after work things as I would like. As a result, I've chosen to spend all my time the last few days on this chess data visualization challenge. One, because chess. Two, I feel like I can get more accomplished (relatively speaking) here, when working in smaller chunks of time.
 
 But I miss SQL. I miss writing queries. It feels like I missed a part of my day. Is this part of my identity now? Am I a SQL-er? That's... kind of exciting, honestly.
+
+### Day 10 (01/15/2021): Slowest day so far
+Took it super easy today. I haven't exactly been going all out the last few days but I really wanted to prioritize recovery. I had a great time listening in on the Artists of Data Science happy hour today. It was a lot of fun just listening to a group of data science people talk about data science things in real time. I hope this continues forever and I can keep showing up!
+
+(I lied. I also did a SQL question on CodeWars too. I really, really had to scratch that itch. It'd been a few days.)
