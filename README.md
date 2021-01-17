@@ -64,3 +64,8 @@ But I miss SQL. I miss writing queries. It feels like I missed a part of my day.
 Took it super easy today. I haven't exactly been going all out the last few days but I really wanted to prioritize recovery. I had a great time listening in on the Artists of Data Science happy hour today. It was a lot of fun just listening to a group of data science people talk about data science things in real time. I hope this continues forever and I can keep showing up!
 
 (I lied. I also did a SQL question on CodeWars too. I really, really had to scratch that itch. It'd been a few days.)
+
+### Day 11 (01/16/2021): 
+Cheesy warning: I'm grateful for LinkedIn, because of the communities you get to be a part of and the people you get to interact with. A lot of people have given me extra motivation to continue down this path and I've very grateful.
+
+Anyway, today's data time has been spent on a couple SQL problems on CodeWars and thinking about ways to bring value through data in my day job (yes, on a Saturday). Tomorrow should be a day of minimal outside obligations so I hope to have a lot more things to share tomorrow night.
