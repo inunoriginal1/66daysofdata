@@ -69,3 +69,14 @@ Took it super easy today. I haven't exactly been going all out the last few days
 Cheesy warning: I'm grateful for LinkedIn, because of the communities you get to be a part of and the people you get to interact with. A lot of people have given me extra motivation to continue down this path and I've very grateful.
 
 Anyway, today's data time has been spent on a couple SQL problems on CodeWars and thinking about ways to bring value through data in my day job (yes, on a Saturday). Tomorrow should be a day of minimal outside obligations so I hope to have a lot more things to share tomorrow night.
+
+### Day 12 (01/17/2021): Chess, Tableau and SQL
+
+For Maven Analytics' #queensgambitchallenge, I chose to [submit something](https://public.tableau.com/profile/wilson.man#!/vizhome/Lichess/Dashboard1) primarily for an audience likely not super familiar with chess and probably just scrolling through LinkedIn on their phone. With that in mind, I kept it simple with only a few (hopefully) visually appealing panels, with no interactivity.
+
+e4 was by far the most popular first move for White, with d4 a distant second. Black loves to respond with the Sicilian defence (c5) and does so quite successfully. So much so that maaaybe it contributes to White playing d4 more and e4 less at higher ratings.
+
+Bonus: If I'M playing black against Harmon and we play the Queen's Gambit, my second move of the game is c6. I looked through my own Lichess history and the Slav is the defence I'm most comfortable with against the Queen's Gambit. Is answering the question this way cheating? I don't think so! :D
+
+Thanks again for putting this challenge together, Maven Analytics!
+
