@@ -80,3 +80,10 @@ Bonus: If I'M playing black against Harmon and we play the Queen's Gambit, my se
 
 Thanks again for putting this challenge together, Maven Analytics!
 
+### Day 13 (01/18/2021) Reflection on the #queensgambitchallenge
+
+I enjoyed putting my chess visualization together in Tableau. I went down many rabbit holes and did a bunch of feature engineering before taking only a small subset of it for the final product. At the end of the day, I felt the context around this visualization led very naturally to the 2x2 story format I ended up with. In a different context, I feel like there was so much more depth I could have presented.
+
+And while reflecting on the process of participating in Maven Analytics' challenge, that was my main takeaway: *Pay attention to context and audience; your visualization is for them, not you*. I saw a lot of beautiful visualizations that had a lot going on. I could be wrong but it didn't seem like they were the best fit for how they would be presented for voting. I took inspiration from that to go the opposite way; I stuck to minimal information about one possible line of exploration. This second piece might've just been me overthinking, but I noticed the lengths that Maven Analytics went to in explaining basic information about chess. That suggested to me that the intended audience might be those unfamiliar with chess.
+
+Understanding the 5 Ws of what you're creating is crucial.
