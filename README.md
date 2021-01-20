@@ -89,3 +89,9 @@ And while reflecting on the process of participating in Maven Analytics' challen
 I saw a lot of beautiful visualizations that had a lot going on. I could definitely be wrong but it didn't seem like they were the best fit for how they would be presented for voting. I took inspiration from that to go the opposite way; I stuck to minimal information about one possible line of exploration. This second piece might've just been me overthinking, but I noticed the lengths that Maven Analytics went to in explaining basic information about chess. That suggested to me that the intended audience might be those unfamiliar with chess.
 
 Understanding the 5 Ws of what you're creating is crucial.
+
+### Day 14 (01/19/2021) Diving off the SQL deep end
+
+Keeping today's update short and sweet: Frankly, the most exciting part of today was setting up a MySQL server on my computer and running a SQL script from the command line without blowing everything up. It's wholly irrational but the command line intimidates me like nothing else. A lot of googling (and hair pulling if I had any) but all crises were avoided. This time. I'm chalking this up as a major victory and calling it a night there.
+
+(Although while we're at it, I never thought I'd have posted on LInkedIn for two weeks straight. I've never really been one to compare myself to anybody else but there's just something about sharing my "progress" amidst the sea of people smarter, more accomplished and further along in this journey than I that leaves me feeling somewhat vulnerable and uneasy. However, my only New Year's resolution every year for the last few years - if you can even call it one - is to get more comfortable being uncomfortable... so we're doing it anyway. Enjoy!)
