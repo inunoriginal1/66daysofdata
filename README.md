@@ -95,3 +95,14 @@ Understanding the 5 Ws of what you're creating is crucial.
 Keeping today's update short and sweet: Frankly, the most exciting part of today was setting up a MySQL server on my computer and running a SQL script from the command line without blowing everything up. It's wholly irrational but the command line intimidates me like nothing else. A lot of googling (and hair pulling if I had any) but all crises were avoided. This time. I'm chalking this up as a major victory and calling it a night there.
 
 (Although while we're at it, I never thought I'd have posted on LInkedIn for two weeks straight. I've never really been one to compare myself to anybody else but there's just something about sharing my "progress" amidst the sea of people smarter, more accomplished and further along in this journey than I that leaves me feeling somewhat vulnerable and uneasy. However, my only New Year's resolution every year for the last few years - if you can even call it one - is to get more comfortable being uncomfortable... so we're doing it anyway. Enjoy!)
+
+### Day 15 (01/20/2021): Solve the right problem
+
+I think I can check the box for my daily #66daysofdata effort since today's SQL lesson took more than five minutes to (re)learn. I really wish it hadn't though. It started off as a fun CodeWars SQL exercise in finding the most concurrent visits to a website and ended with a facepalm. Today's protip is: Know what your output is supposed to be. I started off solving the problem with a self join and when my output kept erroring out, I tried everything to figure out what I was missing in my logic including mapping it out using a sample dataset with pen and paper.
+
+... It turns out my only mistake was including an extra id column! This was just a silly, low stakes example but I appreciated the reminder that the only way you can get the correct answer is by solving the right problem.
+
+(Also, part of my where clause was redundant. Oops.)
+
+<p align="center"><img width="600" height="150" src="https://i.imgur.com/SFQ74nY.png"></p>
+
