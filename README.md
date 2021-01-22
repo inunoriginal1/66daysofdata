@@ -106,3 +106,9 @@ I think I can check the box for my daily #66daysofdata effort since today's SQL 
 
 <p align="center"><img width="600" height="150" src="https://i.imgur.com/SFQ74nY.png"></p>
 
+### Day 16 (01/21/2021): Today I learned
+
+I'd learned that bigint existed as a data type in SQL fairly early in my SQL journey but only just learned today that mediumtext and longtext existed too. I also had no idea that some languages require multiple bytes of storage per character, given the sheer number of possible characters. I don't know that these will ever be useful to me. However, I find these nuances that I *never* would've picked up just from practicing writing SQL queries quite fascinating.
+
+On an unrelated note, I've also decided to participate in another challenge, this time from [Strategy Titan](https://www.strategytitan.com/blog/titanized-real-world-dataset-to-develop-your-analytics-muscle). I will probably build this one in Tableau too, after exploring and cleaning the data in Python. Hopefully I can spend a lot of time on it this weekend.
+
