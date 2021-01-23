@@ -112,3 +112,8 @@ I'd learned that bigint existed as a data type in SQL fairly early in my SQL jou
 
 On an unrelated note, I've also decided to participate in another challenge, this time from [Strategy Titan](https://www.strategytitan.com/blog/titanized-real-world-dataset-to-develop-your-analytics-muscle). I will probably build this one in Tableau too, after exploring and cleaning the data in Python. Hopefully I can spend a lot of time on it this weekend.
 
+### Day 17 (01/22/2021): In the spirit of accountability
+
+In the spirit of accountability, I'm really just making this post to say I didn't really do anything today. I had a good time listening in on The Artists of Data Science again this week though. Maybe that counts. Very fascinating conversation around long-term productivity and burnout. I also did a thing for work that I kind of want to keep secret (at least for now?). That's it though. Looking forward to the weekend and its eternal promise of more time and energy for learning things.
+
+Further in the spirit of accountability, I plan on reading a couple chapters (at least) out of Alan Beaulieu's Learning SQL and starting on [Strategy Titan's](https://www.strategytitan.com/blog/titanized-real-world-dataset-to-develop-your-analytics-muscle) challenge that I mentioned yesterday.
