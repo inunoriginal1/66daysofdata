@@ -117,3 +117,15 @@ On an unrelated note, I've also decided to participate in another challenge, thi
 In the spirit of accountability, I'm really just making this post to say I didn't really do anything today. I had a good time listening in on The Artists of Data Science again this week though. Maybe that counts. Very fascinating conversation around long-term productivity and burnout. I also did a thing for work that I kind of want to keep secret (at least for now?). That's it though. Looking forward to the weekend and its eternal promise of more time and energy for learning things.
 
 Further in the spirit of accountability, I plan on reading a couple chapters (at least) out of Alan Beaulieu's Learning SQL and starting on [Strategy Titan's](https://www.strategytitan.com/blog/titanized-real-world-dataset-to-develop-your-analytics-muscle) challenge that I mentioned yesterday.
+
+### Day 18 (01/23/2021): Back to some Python too
+
+I've had minimal exposure to the non-querying parts of SQL so while some of my reading today was review, I learned a few things I found useful. If you've been more busy running SELECT statements to your heart's content like I have, you may know a little about CREATE TABLE, INSERT INTO, UPDATE, DROP already but maybe not:
+
+* DESC table: This statement describes the structure of a table. Before this, I always had to google the right query syntax to look in the INFORMATION_SCHEMA.COLUMNS table. This is way more intuitive!
+* SHOW TABLES: This statement shows a list of all the tables available in your database. Obviously not as important when solving problems with only a couple tables.
+* ENUM (data type): Generally used to restrict values for a column, but maybe it's not best practice?
+
+I did a bit of googling on ENUM. It seems using a foreign key constraint and lookup table is considered more robust, especially if you anticipate having to update the permitted values.
+
+(Instead of starting the analytics challenge, I spent a couple hours today writing some Python to read and clean spreadsheets. Wow, my Python is very rusty. Way too much looking at documentation to remember fairly basic syntax.)
