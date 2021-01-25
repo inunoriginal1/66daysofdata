@@ -129,3 +129,17 @@ I've had minimal exposure to the non-querying parts of SQL so while some of my r
 I did a bit of googling on ENUM. It seems using a foreign key constraint and lookup table is considered more robust, especially if you anticipate having to update the permitted values.
 
 (Instead of starting the analytics challenge, I spent a couple hours today writing some Python to read and clean spreadsheets. Wow, my Python is very rusty. Way too much looking at documentation to remember fairly basic syntax.)
+
+### Day 19: (01/24/2021): SQL Tips
+
+Read another chapter of Learning SQL today and wanted to share my two favourite tips:
+
+* DISTINCT takes more resources than you might think. Of course, there are cases where it's necessary but if you're using it just as a blanket solution to removing duplicate values from your query, you could be significantly hurting performance. [This article](https://webbtechsolutions.com/2009/07/24/the-effects-of-distinct-in-a-sql-query/) seems to do a good job elaborating on this. In the example used, SELECTing DISTINCT on a table with just 20,000 rows was 12% slower (with 4x the subtree cost... whatever that means)!
+
+* Evaluating logic statements with NOT operators can be more mentally taxing to humans to evaluate than one without. This one is more subtle and obviously not universally applicable but thinking about readability is often overlooked (at least by me) but super important if you're collaborating with others or just need to debug your work (or if others need to debug your work).
+
+I am curious though! Does one of these make more sense to you than the other?
+
+> NOT (title = 'Teller' OR start_date < '2007-01-01')
+
+> title != 'Teller' AND start_date >= '2007-01-01'
