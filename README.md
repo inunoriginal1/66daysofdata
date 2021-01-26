@@ -130,7 +130,7 @@ I did a bit of googling on ENUM. It seems using a foreign key constraint and loo
 
 (Instead of starting the analytics challenge, I spent a couple hours today writing some Python to read and clean spreadsheets. Wow, my Python is very rusty. Way too much looking at documentation to remember fairly basic syntax.)
 
-### Day 19: (01/24/2021): SQL Tips
+### Day 19 (01/24/2021): SQL Tips
 
 Read another chapter of Learning SQL today and wanted to share my two favourite tips:
 
@@ -143,3 +143,11 @@ I am curious though! Does one of these make more sense to you than the other?
 > NOT (title = 'Teller' OR start_date < '2007-01-01')
 
 > title != 'Teller' AND start_date >= '2007-01-01'
+
+### Day 20 (01/24/2021): More SQL Tips
+
+As I continue reading through Learning SQL, I have two more tips (mostly for me to be honest, but hopefully also useful for you 😉)
+
+1. BETWEEN is a convenient way to combine the <= and >= operators in one conditional. I forget it all the time. In fact, I could've used it in the query I showed five days ago. Hopefully you don't also use two conditionals when one will do.
+
+2. The correct way to check for nulls is IS NULL, not = NULL. An expression can *be* null, but it can never *equal* null. This is a very common beginner mistake that I have also made plenty of times!
