@@ -151,3 +151,9 @@ As I continue reading through Learning SQL, I have two more tips (mostly for me 
 1. BETWEEN is a convenient way to combine the <= and >= operators in one conditional. I forget it all the time. In fact, I could've used it in the query I showed five days ago. Hopefully you don't also use two conditionals when one will do.
 
 2. The correct way to check for nulls is IS NULL, not = NULL. An expression can *be* null, but it can never *equal* null. This is a very common beginner mistake that I have also made plenty of times!
+
+### Day 21 (01/25/2021): You're (probably) better than you think
+
+There's nothing quite like getting real-time feedback on your technical skills from somebody whose opinion you respect. Like many others (maybe including you!), I doubt my skills constantly so I was genuinely pleasantly surprised to hear in a mock interview setting that all my SQL work has been paying off.
+
+I've talked about this before but I think it's such a pervasive feeling for so many people that I thought it was worth only discussing again. It probably won't be the last time either. Continue to push yourself... but you're (probably) better than you think!
