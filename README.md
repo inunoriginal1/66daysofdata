@@ -154,6 +154,6 @@ As I continue reading through Learning SQL, I have two more tips (mostly for me 
 
 ### Day 21 (01/25/2021): You're (probably) better than you think
 
-There's nothing quite like getting real-time feedback on your technical skills from somebody whose opinion you respect. Like many others (maybe including you!), I doubt my skills constantly so I was genuinely pleasantly surprised to hear in a mock interview setting that all my SQL work has been paying off.
+There's nothing quite like getting real-time feedback on your technical skills from somebody whose opinion you respect. I doubt my skills constantly so I was genuinely pleasantly surprised to hear in a mock interview setting that all my SQL work has been paying off. When I don't have any frame of reference for what "good" looks like in context, I default to thinking "not good enough". Maybe this happens to you too.
 
-I've talked about this before but I think it's such a pervasive feeling for so many people that I thought it was worth only discussing again. It probably won't be the last time either. Continue to push yourself... but you're (probably) better than you think!
+I've talked about this before but I think it's such a pervasive feeling for so many people that I thought it was worth discussing again. It probably won't be the last time either. Continue to push yourself... but you're (probably) better than you think!
