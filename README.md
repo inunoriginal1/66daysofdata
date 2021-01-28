@@ -157,3 +157,11 @@ As I continue reading through Learning SQL, I have two more tips (mostly for me 
 There's nothing quite like getting real-time feedback on your technical skills from somebody whose opinion you respect. I doubt my skills constantly so I was genuinely pleasantly surprised to hear in a mock interview setting that all my SQL work has been paying off. When I don't have any frame of reference for what "good" looks like in context, I default to thinking "not good enough". Maybe this happens to you too.
 
 I've talked about this before but I think it's such a pervasive feeling for so many people that I thought it was worth discussing again. It probably won't be the last time either. Continue to push yourself... but you're (probably) better than you think!
+
+### Day 22 (01/26/2021): Speed up your queries with this ONE trick!
+
+Came across this gem in today's Learning SQL reading and it's super simple in hindsight. If you're writing a multi-table query, don't join all your tables together, then filter down. Filter down your tables where it makes sense, then join them together. This makes intuitive sense to me. By joining the tables together first before filtering, you've created a larger table upfront. By filtering your tables before joining, you've reduced the number of rows (and probably columns) that your query has to work with throughout its run.
+
+I've always defaulted to the former, because it came more naturally and the syntax was cleaner. Very easy to do it and just move on when all you're doing is solving problems with tiny tables on HackerRank or LeetCode but you'll be working with tables much larger in any real world application (presumably). I feel dumb for not realizing this sooner but consider this a PSA.
+
+I love books.
