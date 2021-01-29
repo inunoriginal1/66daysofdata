@@ -165,3 +165,9 @@ Came across this gem in today's Learning SQL reading and it's super simple in hi
 I've always defaulted to the former, because it came more naturally and the syntax was cleaner. Very easy to do it and just move on when all you're doing is solving problems with tiny tables on HackerRank or LeetCode but you'll be working with tables much larger in any real world application (presumably). I feel dumb for not realizing this sooner but consider this a PSA.
 
 I love books.
+
+### Day 23 (01/27/2021): Reviewing SQL
+
+Read more out of Learning SQL today, but finally a chapter where I found it was just review (querying multiple tables). As a result, I breezed through without ending up in any google rabbit holes. (Yes, I'm know there are many more things for me to learn on this topic... just not necessarily from this book, in this chapter.) I kind of just felt tired all day today anyway so it was good timing. Still, happy I made it through. Time to rest up in time to do it all over again tomorrow. (I absolutely mean that in a good way.)
+
+That's it. Super short post today. See you tomorrow!
