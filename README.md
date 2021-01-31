@@ -171,3 +171,11 @@ I love books.
 Read more out of Learning SQL today, but finally a chapter where I found it was just review (querying multiple tables). As a result, I breezed through without ending up in any google rabbit holes. (Yes, I'm know there are many more things for me to learn on this topic... just not necessarily from this book, in this chapter.) I kind of just felt tired all day today anyway so it was good timing. Still, happy I made it through. Time to rest up in time to do it all over again tomorrow. (I absolutely mean that in a good way.)
 
 That's it. Super short post today. See you tomorrow!
+
+### Day 24 (01/30/2021): I jinxed it
+
+Hilariously, the one time I mention "tomorrow" in a post, I fall off for a couple days. Oops.
+
+Anyway, I've been banging my head against the wall the last couple days because I've been trying to get back into writing some Python and my incredibly subpar skills have atrophied even more. And honestly, it's been incredibly frustrating so I took a bit of a break (aside from passive consumption of youtube content). Today, I decided to jump back into it and double down on the Python. Upon reflection, my problem is an incredibly shaky foundation and so I'm going all the way back to my first real introduction to Python, [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/chapter0/). I loved the premise of the book when I dabbled with Python years ago and feel I need the refresher right now.
+
+Nobody said this was going to be a smooth and easy journey.
