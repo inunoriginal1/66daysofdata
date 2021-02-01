@@ -179,3 +179,9 @@ Hilariously, the one time I mention "tomorrow" in a post, I fall off for a coupl
 Anyway, I've been banging my head against the wall the last couple days because I've been trying to get back into writing some Python and my incredibly subpar skills have atrophied even more. And honestly, it's been incredibly frustrating so I took a bit of a break (aside from passive consumption of youtube content). Today, I decided to jump back into it and double down on the Python. Upon reflection, my problem is an incredibly shaky foundation and so I'm going all the way back to my first real introduction to Python, [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/chapter0/). I loved the premise of the book when I dabbled with Python years ago and feel I need the refresher right now.
 
 Nobody said this was going to be a smooth and easy journey.
+
+### Day 25 (01/31/2021): Another confession
+
+I reviewed the first two chapters of Automate the Boring Stuff and (thankfully?) most of it was review. I'm cognizant of the fine balance between going too slow (and overstudying things) versus going too fast (and building a shaky foundation), but think I want to err on the side of going too slow this time.
+
+Speaking of which, let's get back into this daily posting habit with an embarrassing confession. I never really learned the difference between break and continue. The flow control statements, not the English words. I use them infrequently enough that I just googled it literally every time I thought I needed one of them. In case anybody happens to be in the same boat, I think the best way for me to remember this going forward is one **breaks** out of the current loop entirely and the other **continues** on to the next iteration of the loop.
