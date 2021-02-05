@@ -189,3 +189,7 @@ Speaking of which, let's get back into this daily posting habit with an embarras
 ### Day 26-28 (02/01/2021-02/03/2021): SQL review and more Python basics
 
 Binge watched Tina's whole [SQL Sundays](https://www.youtube.com/playlist?list=PLVD3APpfd1tuXrXBWAntLx4tNaONro5dA) youtube playlist today to get my daily SQL fix. It's been a while but keeping the practice is important for retention and I'm relieved to find it was all review for me. That bodes well for a fun thing happening this weekend that I'm going to keep to myself (at least for now). I've also spent the last couple days going through more chapters of Automate the Boring Stuff. I'm going to finish off tonight with some more!
+
+### Day 29 (02/04/2021): More Automate the Boring Stuff
+
+Long day at work so I finished my night with more from Automate the Boring Stuff. Tonight was very simply more review on loops, converting data types and try/except clauses combined together in a mini guess the number game. Something is better than nothing I guess!
