@@ -225,3 +225,11 @@ I'm winding down tonight with Nudge: Improving Decisions About Health, Wealth, a
 Taking a breather from the recursion and data algorithms to do more SQL. I'm exciting to have Danny Ma's Serious SQL course. I'm most excited to supplement the query practice and the more high-level knowledge from my Learning SQL book with some practical application of SQL to actual case studies with a real SQL environment. I set up my own SQL server previously, but that was mostly to work with pre-existing tables and to follow along with the book material. I've been looking for a way to integrate SQL into my personal projects so this is perfect timing. Should be fun!
 
 Shoutout to not just a master memer, but also an incredibly generous and knowledgeable member of the data science community.
+
+### Day 44 (02/28/2021):
+
+As they say in audit, "if it's not documented, it's not done." I'm going to follow that here going forward: If I don't share any progress, I haven't made any.
+
+That being said, I've spent my weekend successfully tying up the loose ends of [my EDA project](https://github.com/inunoriginal1/OpenPowerlifting), figuring out how to push it to GitHub from the terminal and creating a presentable README. I've found it much easier to start things than to finish them, so I'm incredibly glad that I've now crossed the finish line on this one. I also plan to take the time in the next couple days to reflect on the entire process and put my thoughts down on paper. Funnily enough, writing more often and [publishing articles on Medium](https://wilsonman.medium.com/) has helped me appreciate the art of writing, and the way it forces you to express yourself more clearly, whether it's just to yourself or to others.
+
+I've always been puzzled by how to take the next step and incorporate SQL into a project so that's something I plan to add to the next one. It seems much simpler to do it all in a Jupyter notebook, but a lot less like the "real world". I've gotten (very marginally) more comfortable with databases and managing them so we'll see how this goes.
