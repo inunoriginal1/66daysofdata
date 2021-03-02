@@ -233,3 +233,9 @@ As they say in audit, "if it's not documented, it's not done." I'm going to foll
 That being said, I've spent my weekend successfully tying up the loose ends of [my EDA project](https://github.com/inunoriginal1/OpenPowerlifting), figuring out how to push it to GitHub from the terminal and creating a presentable README. I've found it much easier to start things than to finish them, so I'm incredibly glad that I've now crossed the finish line on this one. I also plan to take the time in the next couple days to reflect on the entire process and put my thoughts down on paper. Funnily enough, writing more often and [publishing articles on Medium](https://wilsonman.medium.com/) has helped me appreciate the art of writing, and the way it forces you to express yourself more clearly, whether it's just to yourself or to others.
 
 I've always been puzzled by how to take the next step and incorporate SQL into a project so that's something I plan to add to the next one. It seems much simpler to do it all in a Jupyter notebook, but a lot less like the "real world". I've gotten (very marginally) more comfortable with databases and managing them so we'll see how this goes.
+
+### Day 45 (03/01/2021): Does it count?
+
+Does it count if it was for work? I'm always looking for ways to learn new skills and apply them at work so when a colleague was looking to solve a problem that we've never done in-house before, I happily volunteered to build it out myself in Python. Simulations and data visualizations (of sorts) were involved so this was absolutely a win for everybody.
+
+(... I hope! I ended up doing a ton of research because frankly, I had never even heard of what I did before I volunteered for the task.)
