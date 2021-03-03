@@ -239,3 +239,9 @@ I've always been puzzled by how to take the next step and incorporate SQL into a
 Does it count if it was for work? I'm always looking for ways to learn new skills and apply them at work so when a colleague was looking to solve a problem that we've never done in-house before, I happily volunteered to build it out myself in Python. Simulations and data visualizations (of sorts) were involved so this was absolutely a win for everybody.
 
 (... I hope! I ended up doing a ton of research because frankly, I had never even heard of what I did before I volunteered for the task.)
+
+### Day 46 (03/02/2021): Sliced
+
+Real time competitive data science is the entertainment I never knew I needed. I spent a few hours tonight watching [Nick Wan's Twitch stream](https://www.twitch.tv/nickwan_datasci), featuring two brave souls subjecting themselves to Nick's twisted sense of humour and battling it out on a Kaggle dataset. (For those unaware, Nick was a data scientist with the Cincinnati Reds and is now the data science manager at KFC US.) This was fun and helped give me a sense of how other people code and troubleshoot their ML notebooks live.
+
+If that sounds interesting to you too, stop by next Tuesday night at 8pm CST!
