@@ -245,3 +245,13 @@ Does it count if it was for work? I'm always looking for ways to learn new skill
 Real time competitive data science is the entertainment I never knew I needed. I spent a few hours tonight watching [Nick Wan's Twitch stream](https://www.twitch.tv/nickwan_datasci), featuring two brave souls subjecting themselves to Nick's twisted sense of humour and battling it out on a Kaggle dataset. (For those unaware, Nick was a data scientist with the Cincinnati Reds and is now the data science manager at KFC US.) This was fun and helped give me a sense of how other people code and troubleshoot their ML notebooks live.
 
 If that sounds interesting to you too, stop by next Tuesday night at 8pm CST!
+
+I also read this article from Ken Jee on the mindset shift to lifelong learner (subscribe to his newsletter, it's great!). The part that resonated with me the most was a shift I'd also made myself in the last few years: adding the word "yet" to my vocabulary.
+
+I'm not good at this... YET. I can't do this... YET. I'm not there... YET. Just because you aren't where you want to be now doesn't mean you can't get there in due time. :D
+
+### Day 47 (03/03/2021): Reflecting
+
+I'd jotted down some notes on some of the things I was thinking about in the aftermath of finishing my [first data project](https://github.com/inunoriginal1/OpenPowerlifting) and spent some time tonight forming coherent sentences on the things I've learned from the entire process. I'd like to think that I learned a few things data science related. I'd alos like to think I learned a few things not-so-related to data science. Hopefully writing them down can help me internalize the lessons better. If anybody else takes something away from it too, even better.
+
+i also spent some time tonight thinking of other areas I want to explore for my next project. I have a few in mind but haven't committed to one yet. Stay tuned?
