@@ -255,3 +255,7 @@ I'm not good at this... YET. I can't do this... YET. I'm not there... YET. Just 
 I'd jotted down some notes on some of the things I was thinking about in the aftermath of finishing my [first data project](https://github.com/inunoriginal1/OpenPowerlifting) and spent some time tonight forming coherent sentences on the things I've learned from the entire process. I'd like to think that I learned a few things data science related. I'd alos like to think I learned a few things not-so-related to data science. Hopefully writing them down can help me internalize the lessons better. If anybody else takes something away from it too, even better.
 
 i also spent some time tonight thinking of other areas I want to explore for my next project. I have a few in mind but haven't committed to one yet. Stay tuned?
+
+### Day 48 (03/04/2021): Mini-project
+
+Drawing inspiration from an ESPN article I read a couple weeks ago, I discovered the `basketball-reference-scraper` package tonight and decided to start scratching that itch. Wrote a bit of Python code tonight to get the ball rolling. Frankly, I've already stayed up later than I intended to because I got in a bit of a groove and wanted to keep digging into this new toy. Sleep is important though so I'm pulling myself away for now. Goodnight!
