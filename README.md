@@ -259,3 +259,7 @@ i also spent some time tonight thinking of other areas I want to explore for my 
 ### Day 48 (03/04/2021): Mini-project
 
 Drawing inspiration from an ESPN article I read a couple weeks ago, I discovered the `basketball-reference-scraper` package tonight and decided to start scratching that itch. Wrote a bit of Python code tonight to get the ball rolling. Frankly, I've already stayed up later than I intended to because I got in a bit of a groove and wanted to keep digging into this new toy. Sleep is important though so I'm pulling myself away for now. Goodnight!
+
+### Day 49 (03/06/2021): More (mini-)project
+
+After some more work on my mini-project, I think I answered the original question I was looking into. It was a fairly simple question (I think) but for better or worse, I feel inclined to keep digging. It feels like a bit of a waste to stop here! I'm going to give myself two weeks from today to work on this and we'll see what we can come up with.
