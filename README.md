@@ -263,3 +263,9 @@ Drawing inspiration from an ESPN article I read a couple weeks ago, I discovered
 ### Day 49 (03/06/2021): More (mini-)project
 
 After some more work on my mini-project, I think I answered the original question I was looking into. It was a fairly simple question (I think) but for better or worse, I feel inclined to keep digging. It feels like a bit of a waste to stop here! I'm going to give myself two weeks from today to work on this and we'll see what we can come up with.
+
+### Day 50 (03/07/2021): Mostly reading
+
+Most of my productive time today was spent reading [Nudge](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X) and [Tune Your Chess Tactics Antenna](https://www.amazon.com/Tune-Your-Chess-Tactics-Antenna/dp/9056914049). It was refreshing to spend some time focusing on other topics. I've always been fascinated by behaviour and economics so a collaboration between behavioural economists is perfect. As a recreational chess player with some vague goal of becoming a titled chess player some day, the latter seemed productive.
+
+Still found some time tonight for the basketball project. I think I'm finally dipping my toes into doing some actual machine learning, which is both exciting and nerve-wracking. We'll see how this goes.
