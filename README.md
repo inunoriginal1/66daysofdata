@@ -269,3 +269,7 @@ After some more work on my mini-project, I think I answered the original questio
 Most of my productive time today was spent reading [Nudge](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X) and [Tune Your Chess Tactics Antenna](https://www.amazon.com/Tune-Your-Chess-Tactics-Antenna/dp/9056914049). It was refreshing to spend some time focusing on other topics. I've always been fascinated by behaviour and economics so a collaboration between behavioural economists is perfect. As a recreational chess player with some vague goal of becoming a titled chess player some day, the latter seemed productive.
 
 Still found some time tonight for the basketball project. I think I'm finally dipping my toes into doing some actual machine learning, which is both exciting and nerve-wracking. We'll see how this goes.
+
+### Day 51 (03/08/2021): Feature engineering
+
+Spent a bit of time tonight doing some more data cleaning and feature engineering on my basketball dataset. Not at all done with all the pre-processing, but ended the night by running my very first "model" (in the loosest sense of the word) with sklearn. The coefficients from this linear regression are completely nonsensical, but this was a success to me nonetheless.
