@@ -273,3 +273,7 @@ Still found some time tonight for the basketball project. I think I'm finally di
 ### Day 51 (03/08/2021): Feature engineering
 
 Spent a bit of time tonight doing some more data cleaning and feature engineering on my basketball dataset. Not at all done with all the pre-processing, but ended the night by running my very first "model" (in the loosest sense of the word) with sklearn. The coefficients from this linear regression are completely nonsensical, but this was a success to me nonetheless.
+
+### Day 52 (03/09/2021): Much trial, much error
+
+Messed around with feature selection mostly with multicollinearity in mind (ex: dropping FG% since I already have FG and FGA), before building a super simple pipeline with a scaler and a linear regression model. (My stats knowledge is quite rusty so that may not have made any sense. Back to the drawing board on stats!) Tried a bunch of different combinations and continued to get atrocious results (albeit less atrocious than the throwaway last night). Going to have to take a step back and actually try to figure out what I'm doing before tinkering any further. Going to re-group tomorrow by looking for other basketball machine learning projects. This was very much a lot of naivete biting me in the ass tonight!
