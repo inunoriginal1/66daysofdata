@@ -279,3 +279,11 @@ Spent a bit of time tonight doing some more data cleaning and feature engineerin
 Messed around with feature selection mostly with multicollinearity in mind (ex: dropping FG% since I already have FG and FGA), before building a super simple pipeline with a scaler and a linear regression model. (My stats knowledge is quite rusty so that may not have made any sense. Back to the drawing board on stats!) Tried a bunch of different combinations and continued to get atrocious results (albeit less atrocious than the throwaway last night). Going to have to take a step back and actually try to figure out what I'm doing before tinkering any further. Going to re-group tomorrow by looking for other basketball machine learning projects. This was very much a lot of naivete biting me in the ass tonight!
 
 P.S. Tuesday night means tuning into Sliced on Nick Wan's Twitch channel!
+
+### Day 53 (03/19/2021): 
+
+*ten days later*
+
+For reasons I'm not quite willing to share just yet, power BI is getting my (almost) full attention for now. DAX Is its own beast and #upskilling in that domain has been interesting so far.
+
+I also dropped the ball on sharing another fun story from our #66daysofdata discord community last Saturday. Another one should be going up tomorrow and hopefully we'll be back on track with those. There are so many people working hard to improve themselves and I want to keep sharing their journeys!
