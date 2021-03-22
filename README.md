@@ -287,3 +287,11 @@ P.S. Tuesday night means tuning into Sliced on Nick Wan's Twitch channel!
 For reasons I'm not quite willing to share just yet, power BI is getting my (almost) full attention for now. DAX Is its own beast and #upskilling in that domain has been interesting so far.
 
 I also dropped the ball on sharing another fun story from our #66daysofdata discord community last Saturday. Another one should be going up tomorrow and hopefully we'll be back on track with those. There are so many people working hard to improve themselves and I want to keep sharing their journeys!
+
+### Day 54 (03/21/2021): Intro to DAX
+
+I spent the last two days getting introduced to DAX. I finished SQLBI's Introducing DAX video course and thoroughly enjoyed their approach to teaching the language. They provided a sample data model and focused on the practical while still introducing crucial theoretical elements. It feels like some kind of hybrid of Excel and SQL to me, which I appreciate since I'm fairly familiar with both.
+
+One of the biggest takeaways for me was the importance of understanding row context and filter context of any calculation you write. As far as I understand, row context is relevant for the back-end (calculated columns in your tables) and filter context is relevant for the front-end (visuals and dashboards). Of course, with flexibility and customizability comes complexity and I would be negligent if I didn't mention that aggregation functions ignore row context and the CALCULATE function can override filter context (among many other things).
+
+While I've unexpectedly taken a sharp left turn in my data focus for now, I'm excited to explore new territory. I'm reminded of just how much of it there is in this data science space.
