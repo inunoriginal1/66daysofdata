@@ -309,3 +309,7 @@ I finally started reading [Supercharge Power BI](https://www.amazon.com/Supercha
 The main difference between a star schema and a snowflake schema is that a snowflake scheme essentially has hierarchies to its dimension tables, where your fact table links to dimension tables that can also link to further dimension tables. This can reduce data redundancy in your tables, at the cost of sometimes needing multiple table joins to get to the level of detail you're looking for. By contrast, a galaxy schema can have multiple fact tables that link to shared dimension tables. As far as I can tell, the only additional consideration in design you need with galaxy schemas is how you build out the dimension tables that are *not* shared.
 
 Of course, the book starts off slow and I'm going to finish up my night with the current chapter's practice problems on a few of the more common and basic DAX functions.
+
+### Day 57 (04/06/2021): Chugging Along
+
+Chugging along with those practice problems from [Supercharge Power BI](https://www.amazon.com/Supercharge-Power-BI-Better-Learn/dp/1615470522). They're a bit basic and tedious but it's helping me build the habit in the little things (honestly, like remembering to format any new calculated columns and measures). It's also nice to get through them fairly quickly without much struggling. I'm sure that'll come later though. :D
