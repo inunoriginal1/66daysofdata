@@ -313,3 +313,7 @@ Of course, the book starts off slow and I'm going to finish up my night with the
 ### Day 57 (04/06/2021): Chugging Along
 
 Chugging along with those practice problems from [Supercharge Power BI](https://www.amazon.com/Supercharge-Power-BI-Better-Learn/dp/1615470522). They're a bit basic and tedious but it's helping me build the habit in the little things (honestly, like remembering to format any new calculated columns and measures). It's also nice to get through them fairly quickly without much struggling. I'm sure that'll come later though. :D
+
+### Day 58 (04/08/2021): Filter Context
+
+More Power BI! I'd encountered filter context before through SQLBI's super helpful intro courses so this was mostly refresher for me. Still, it was encouraging that I understood and kept up with this chapter on filter context on first read-through. It has been thoroughly stressed everywhere that this is a fundamental concept. It helps explain why sometimes you build a visual and every row has the same number for a measure. It's also interesting that any total is not a summation of the rows above it, for example, but instead a calculation with its own filter context. I'm sure it can get much more complex but baby steps. :D
