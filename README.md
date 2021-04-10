@@ -317,3 +317,15 @@ Chugging along with those practice problems from [Supercharge Power BI](https://
 ### Day 58 (04/08/2021): Filter Context
 
 More Power BI! I'd encountered filter context before through SQLBI's super helpful intro courses so this was mostly refresher for me. Still, it was encouraging that I understood and kept up with this chapter on filter context on first read-through. It has been thoroughly stressed everywhere that this is a fundamental concept. It helps explain why sometimes you build a visual and every row has the same number for a measure. It's also interesting that any total is not a summation of the rows above it, for example, but instead a calculation with its own filter context. I'm sure it can get much more complex but baby steps. :D
+
+### Day 59 (04/09/2021): Excel Users Beware
+
+Supercharge Power BI is speaking to me right now. I love that it's taken the time to address the underlying structure of your data and thinking about the data pipeline, not just what you do with the data once you have it. Sharing a few tips I've picked up from the book (and also from SQLBI's intro courses):
+
+* Don't go overboard with it, but make your tables as narrow as you can within reason. Additional columns take up more memory than rows do. This makes sense. I compare it to using two tabs in the same Excel workbook instead of having two workbooks (where workbooks are the columns in this case). Columns come with additional overhead.
+
+* As a seasoned Excel user, the first instinct might be to create calculated columns, but resist that urge! Create measures where possible. This goes back to the storage issue... only worse this time. Calculated columns are stored less efficiently than imported columns.
+
+* Still on the same note: Think about any redundant data (read: columns) you may have in your data. For example, if you have a unit price and a quantity sold in your sales table, you don't need a total price too. You only need two of the three and the third can be a measure.
+
+Onwards and upwards.
