@@ -329,3 +329,9 @@ Supercharge Power BI is speaking to me right now. I love that it's taken the tim
 * Still on the same note: Think about any redundant data (read: columns) you may have in your data. For example, if you have a unit price and a quantity sold in your sales table, you don't need a total price too. You only need two of the three and the third can be a measure.
 
 Onwards and upwards.
+
+### Day 60 (04/11/2021): CALCULATE
+
+Read a couple more chapters from Supercharge Power BI today and yesterday, getting more exposure to the CALCULATE function, the different evaluation contexts in Power BI and context transition. These are apparently critical pieces of mastering DAX and I expect many headaches in my future trying to deeply understand the three as they come up in different scenarios. The way the three apply to simple situations like calculating SUMs in a calculated column; wrapping the SUM formula in a CALCULATE function; and referencing measures in calculated columns already provided counter-intuitiive examples that I think I understand now, after a few re-reads.
+
+The key takeaway for me here is that measures are implicitly wrapped with a CALCULATE function, which turns the row context (in a calculated column context) into a filter context. If that makes zero sense to you, I fully sympathize. Happy to try to explain if anybody is actually curious. Let me know.
